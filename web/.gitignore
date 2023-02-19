@@ -1,0 +1,26 @@
+
+node_modules
+/dist
+
+.firebase
+.firebaserc
+
+firebase.json
+firestore.indexes.json
+firestore.rules
+storage.rules
+
+# локлаьные енв файлы
+.env.local
+.env.*.local
+
+# логи
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# эдиторы
+.idea/
+.vscode
+
